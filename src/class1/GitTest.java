@@ -1,6 +1,6 @@
 package class1;
 
 public class GitTest {
-  private String testman;
+  private String goodboy;
 
 }
